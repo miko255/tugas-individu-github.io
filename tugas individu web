@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> MEICO CAHYO ADI SAPUTRO</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #ee00ff;
+            color: rgb(23, 208, 180);
+        }
+        section {
+            margin: 20px 0;
+            padding: 20px;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #777;
+        }
+        img {
+            max-width: 70%;
+            height: auto;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1> MEICO CAHYO ADI SAPUTRO</h1>
+</header>
+
+<section>
+    <h2>Profil</h2>
+    <p>Halo! Saya Meico Cahyo Adi Saputro Salam Kenal 
+    </p>
+    <img src="C:\Users\Admin\Pictures\Camera Roll\mikko.jpg" alt="Foto MEICO CAHYO ADI SAPUTRO">
+</section>
+
+<section>
+    <h2>Hobi</h2>
+    <ul>
+        <li>Hobi saya membaca komik dan juga volley ada juga yang lain seperti bermain game,menonton one piece
+            dan masih banyak lainnya</li>
+        
+    </ul>
+</section>
+
+<section>
+    <h2>Tempat Nongkrong Favorit</h2>
+    <p>Saya suka nongkrong di:</p>
+    <ul>
+        <li>SARI RASA</li>
+        <li>RUMAH GHIFARI</li>
+        <li>POS KAMBLING</li>
+    </ul>
+</section>
+
+<footer>
+    <p>&copy; MEICO CAHYO ADI SAPUTRO</p>
+</footer>
+
+</body>
+</html>
